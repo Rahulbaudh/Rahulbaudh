@@ -2,17 +2,28 @@
 <h3 align="center">👋 Hi there! I'm a results-driven professional with 4 years of experience at Amazon, specializing in customer support and data analysis. My background in optimizing marketplace support, creating performance reports, and enhancing customer satisfaction has equipped me with a unique skill set.
 
 # About Me
+
 🎓 Education: B.Tech in Mechanical Engineering | PGDM in Marketing
+
 💼 Experience: Customer Support & Data Analysis at Amazon
+
 📊 Skills: Python, SQL, Data Visualization, Machine Learning, Statistical Analysis
+
 📈 Certifications: Data Science and AI
+
 # What I Do
-Analyze data to optimize processes and improve customer satisfaction
-Develop performance reports to track and enhance team productivity
-Utilize machine learning techniques to drive insights and decision-making
+
+- Analyze data to optimize processes and improve customer satisfaction
+
+- Develop performance reports to track and enhance team productivity
+
+- Utilize machine learning techniques to drive insights and decision-making
+
 # Projects
-Implemented machine learning models for predictive analytics
-Conducted statistical analysis to support business strategies
+
+- Implemented machine learning models for predictive analytics
+
+- Conducted statistical analysis to support business strategies
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
