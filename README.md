@@ -1,30 +1,38 @@
 <h1 align="center">Hi 👋, I'm Rahul Baudh</h1>
-<h3 align="center">👋 Hi there! I'm a results-driven professional with 4 years of experience at Amazon, specializing in customer support and data analysis. My background in optimizing marketplace support, creating performance reports, and enhancing customer satisfaction has equipped me with a unique skill set.
+<h3 align="center">
+---
 
-# About Me
+👋 Hi there! I'm a results-driven professional with a robust background in customer support and data analysis, honed over 4 years at Amazon. My passion for optimizing marketplace support, creating insightful performance reports, and enhancing customer satisfaction has been the cornerstone of my career.
 
-🎓 Education: B.Tech in Mechanical Engineering | PGDM in Marketing
+### About Me
+- 🎓 **Education**:
+  - **B.Tech in Mechanical Engineering**: Acquired a strong foundation in analytical thinking and problem-solving.
+  - **PGDM in Marketing**: Developed a strategic mindset for market analysis and consumer behavior.
+- 💼 **Professional Experience**:
+  - **Amazon**: Leveraged data analysis and customer support skills to optimize operations and improve customer satisfaction. Created detailed performance reports that drove strategic decisions and operational enhancements.
+- 📊 **Core Skills**:
+  - **Programming**: Proficient in Python and SQL for data manipulation, analysis, and automation.
+  - **Data Visualization**: Expertise in tools like Tableau and Power BI to create clear, impactful visualizations.
+  - **Machine Learning**: Experienced in developing and implementing machine learning models for predictive analytics.
+  - **Statistical Analysis**: Skilled in applying statistical methods to extract meaningful insights from data.
+- 📈 **Certifications**:
+  - **Data Science and AI**: Certified professional with a deep understanding of data science principles and artificial intelligence techniques.
 
-💼 Experience: Customer Support & Data Analysis at Amazon
+### What I Do
+- **Data Analysis**: Transform complex data sets into actionable insights to optimize processes and improve customer satisfaction.
+- **Performance Reporting**: Develop comprehensive performance reports to track key metrics and drive team productivity.
+- **Machine Learning**: Implement machine learning models to uncover trends and support data-driven decision-making.
+- **Statistical Analysis**: Conduct thorough statistical analysis to inform business strategies and operational improvements.
 
-📊 Skills: Python, SQL, Data Visualization, Machine Learning, Statistical Analysis
+### Projects
+- **Predictive Analytics**: Developed machine learning models to predict customer behavior and optimize support strategies.
+- **Process Optimization**: Analyzed marketplace data to identify inefficiencies and implemented solutions that improved operational efficiency.
+- **Customer Satisfaction**: Created performance dashboards that provided real-time insights into customer support metrics, leading to enhanced customer satisfaction.
 
-📈 Certifications: Data Science and AI
+### Let's Connect
+I am committed to continuous improvement and fostering collaborative environments. I thrive on tackling challenging problems and working with teams to develop innovative solutions. Feel free to explore my repositories to see some of my work. I’m always open to new opportunities and collaborations, so let’s connect and create something amazing together!
 
-# What I Do
-
-- Analyze data to optimize processes and improve customer satisfaction
-
-- Develop performance reports to track and enhance team productivity
-
-- Utilize machine learning techniques to drive insights and decision-making
-
-# Projects
-
-- Implemented machine learning models for predictive analytics
-
-- Conducted statistical analysis to support business strategies
-
+---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rahulbaudh97/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rahulbaudh97/" height="30" width="40" /></a>
